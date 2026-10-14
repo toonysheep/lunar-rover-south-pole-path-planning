@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+outputs/
+*.part
+# Distributed as GitHub Release assets, with hashes in manifests/release_assets.json.
+data/environments/*/*.csv

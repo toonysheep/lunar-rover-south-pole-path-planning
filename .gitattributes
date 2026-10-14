@@ -1,0 +1,5 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+# Preserve numerical records and their original hashes.
+*.csv -text

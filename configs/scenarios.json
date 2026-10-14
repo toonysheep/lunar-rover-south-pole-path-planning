@@ -1,0 +1,18 @@
+{
+  "site01": {
+    "site": "site01",
+    "start_time": 0
+  },
+  "site06": {
+    "site": "site06",
+    "start_time": 0
+  },
+  "site07": {
+    "site": "site07",
+    "start_time": 0
+  },
+  "site01_t660": {
+    "site": "site01",
+    "start_time": 660
+  }
+}

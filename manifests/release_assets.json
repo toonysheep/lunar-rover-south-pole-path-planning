@@ -1,0 +1,113 @@
+{
+  "release_tag": "environment-data-v0.1.0",
+  "assets": [
+    {
+      "path": "data/environments/site01/slope.csv",
+      "asset_name": "site01-slope.csv.gz",
+      "bytes": 391006,
+      "sha256": "5d7f60db99f692245f8feacdd01d522f37fd7551689be89c471625f2c03a0761",
+      "compression": "gzip",
+      "asset_bytes": 189733,
+      "asset_sha256": "61e141a47bc1ca2035a4fd9a98abc84f4817bdda5dc2df3b8bffc8238b82b9c8"
+    },
+    {
+      "path": "data/environments/site01/Vsun.csv",
+      "asset_name": "site01-Vsun.csv.gz",
+      "bytes": 88505,
+      "sha256": "d6c9f922ec290ce1ddcf526b9fd2e37f4a026a1c6ff0a6a701a744e68cbf14ab",
+      "compression": "gzip",
+      "asset_bytes": 41460,
+      "asset_sha256": "00b4795bcb5ad5222c42e4c2bbf8f7c4d33089e3f379e87d5b234d3baa713285"
+    },
+    {
+      "path": "data/environments/site01/lunarSolarLight.csv",
+      "asset_name": "site01-lunarSolarLight.csv.gz",
+      "bytes": 638501739,
+      "sha256": "2a76411fbed8e555f25732f09af1e04bf900e496b1758d17906fe5237a195851",
+      "compression": "gzip",
+      "asset_bytes": 26340791,
+      "asset_sha256": "b350f84b6a59917b71538d0a824f3ff6597e0d02c5e321fcac7ea90042fe5b0f"
+    },
+    {
+      "path": "data/environments/site01/lunarSurfaceTemp.csv",
+      "asset_name": "site01-lunarSurfaceTemp.csv.gz",
+      "bytes": 1122651622,
+      "sha256": "f0e6fd47b067910f6e4154f9c9e90da7324fe9466d416fc20728dc74e26c232e",
+      "compression": "gzip",
+      "asset_bytes": 30212535,
+      "asset_sha256": "6d2fbefca0bb0dd1987bca13c2310bc58980104f8cff834459ae4e8ef5a85821"
+    },
+    {
+      "path": "data/environments/site06/slope.csv",
+      "asset_name": "site06-slope.csv.gz",
+      "bytes": 393833,
+      "sha256": "2904ebde6fc920c744b9f0510b5eccb0e6d656ab545b65e93bc69fdde313b70d",
+      "compression": "gzip",
+      "asset_bytes": 189172,
+      "asset_sha256": "63a01f2f874b56f59dbfcc6a584ce89d60c34a59c1ea6be6cbd47c9b97b7306f"
+    },
+    {
+      "path": "data/environments/site06/Vsun.csv",
+      "asset_name": "site06-Vsun.csv.gz",
+      "bytes": 88505,
+      "sha256": "d6c9f922ec290ce1ddcf526b9fd2e37f4a026a1c6ff0a6a701a744e68cbf14ab",
+      "compression": "gzip",
+      "asset_bytes": 41460,
+      "asset_sha256": "00b4795bcb5ad5222c42e4c2bbf8f7c4d33089e3f379e87d5b234d3baa713285"
+    },
+    {
+      "path": "data/environments/site06/lunarSolarLight.csv",
+      "asset_name": "site06-lunarSolarLight.csv.gz",
+      "bytes": 581746215,
+      "sha256": "5b947d42e50d3e2c30ecd46508cb522a3dca69ecf55124d218cf133594171391",
+      "compression": "gzip",
+      "asset_bytes": 23740564,
+      "asset_sha256": "cf08d78067a76d873211c8563fe7f5e76d8dd6002754b7c0dd74e4306817732a"
+    },
+    {
+      "path": "data/environments/site06/lunarSurfaceTemp.csv",
+      "asset_name": "site06-lunarSurfaceTemp.csv.gz",
+      "bytes": 1122534509,
+      "sha256": "230ffec88dc1b0a55c41470815eb5d0a1d8f06a16092119f10e31bd182a425c9",
+      "compression": "gzip",
+      "asset_bytes": 28575394,
+      "asset_sha256": "a8577d5dce5c1471502d15d6584cffc91b1712df05ae13e2cd689e3714fc1d52"
+    },
+    {
+      "path": "data/environments/site07/slope.csv",
+      "asset_name": "site07-slope.csv.gz",
+      "bytes": 390361,
+      "sha256": "1f02350f1d3f2e29c2c74fd3c14602cec8851be31377c98971d6adee2c13c9bb",
+      "compression": "gzip",
+      "asset_bytes": 190083,
+      "asset_sha256": "a6356a68f221dafaf4b3cfc71496c96445b817dca1d2bdf21867d7a33efb7e68"
+    },
+    {
+      "path": "data/environments/site07/Vsun.csv",
+      "asset_name": "site07-Vsun.csv.gz",
+      "bytes": 88505,
+      "sha256": "d6c9f922ec290ce1ddcf526b9fd2e37f4a026a1c6ff0a6a701a744e68cbf14ab",
+      "compression": "gzip",
+      "asset_bytes": 41460,
+      "asset_sha256": "00b4795bcb5ad5222c42e4c2bbf8f7c4d33089e3f379e87d5b234d3baa713285"
+    },
+    {
+      "path": "data/environments/site07/lunarSolarLight.csv",
+      "asset_name": "site07-lunarSolarLight.csv.gz",
+      "bytes": 546091167,
+      "sha256": "377dea8380a4be05eef49e7825e354b801244f9f636d5d06be2ebfa2f440e929",
+      "compression": "gzip",
+      "asset_bytes": 17527504,
+      "asset_sha256": "2494a59d31acd43bd7fe834b888a38531439173496fae4746c8ee0a29eefe8eb"
+    },
+    {
+      "path": "data/environments/site07/lunarSurfaceTemp.csv",
+      "asset_name": "site07-lunarSurfaceTemp.csv.gz",
+      "bytes": 1130602822,
+      "sha256": "772a8cccc11dff4ed17ae8b61daef3d1b75254c1448b3f950c177ece3025b3d6",
+      "compression": "gzip",
+      "asset_bytes": 23509240,
+      "asset_sha256": "e73c36f88e4be2e99682b410b56e8b7840567b111f3a42065f187da3d7b2e558"
+    }
+  ]
+}
